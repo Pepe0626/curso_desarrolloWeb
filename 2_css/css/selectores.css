@@ -1,0 +1,29 @@
+header h2{
+	color: red;
+}
+/*p{
+	color:red;
+}
+p#azul{
+	color: blue;
+}
+p.prueba{
+color: orange;
+}
+.grande{
+	font-size: 20px;
+}*/
+/*ADYACENTES
+p+p{
+	font-family: sans-serif;
+	font-weight: bolder;
+}*/
+div > p { 
+	color: red;
+}
+p ~ p {
+	color: blue;
+}
+h3[title="main"]{
+	color: brown;
+}
