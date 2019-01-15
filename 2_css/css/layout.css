@@ -1,0 +1,10 @@
+p{
+	border: 2px solid black;
+	background: orange;
+	display: block; /* OCUPA SOLO EL ANCHO QUE OCUPA EL ELEMENTO*/
+	/*display: inline;*/ /* SE TRATA TODO COMO UNA SOLO LINEA */
+	
+}
+p#fantasma{
+	display: none;
+}

@@ -10,3 +10,30 @@ div p {
 div p.rem {
 	font-size: 1rem;
 }
+
+p.in{
+	font-size: .5in;
+}
+p.cm{
+	font-size: 1.5cm;
+}
+p.mm{
+	font-size:  15mm;
+}
+p.pt{
+	font-size:  30pt;
+}
+p.pc{
+	font-size: 3pc;
+}
+
+div.fija{
+	height:100px;
+	width: 100px;
+	background: cyan;
+}
+div.porcentual{
+	height: 100px;
+	width: 50%;
+	background: yellow;
+}

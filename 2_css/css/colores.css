@@ -1,0 +1,30 @@
+div{
+	width: 100px;
+	height: 100px;
+	border:1px solid black;
+	margin: 20px;
+}
+.reservadas{
+	/*background: DeepSkyBlue;*/
+	background: Lime;
+}
+
+.luzRGB{
+	/*background: rgb(255, 255, 0);*/
+	background: rgb(0,255,0);
+}
+.hex{
+	background: #00ff00;
+}
+.porcentual{
+	background: rgb(0%,100%,0%);
+}
+.hsl{
+background: hsl(120,100%,50%);	
+}
+.rgb_trans{
+	background: rgba(0,255,0,.5);
+}
+.hsl_trans{
+	background: hsla(120,100%,50%,0.5);
+}

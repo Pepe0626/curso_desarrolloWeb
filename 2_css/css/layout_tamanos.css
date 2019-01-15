@@ -1,0 +1,26 @@
+div{
+	width: 50%;
+	height: 100px;
+	border: 1px solid black;
+}
+div.dimension{
+	min-width: 400px;
+	max-width: 600px;
+	background: DeepSkyBlue;
+	margin: 20px; /*Todos los lados */
+	margin: 20px 50px; /* 1°:ARRIBA Y ABAJO 2°:LATERALES; */
+	margin: 30px 50px 3% 15%; /* ARRIBA, L.DERECHO, ABAJO, LIZQUIERDO */
+	margin-bottom: 60px;
+	margin-left: 15px;
+	margin-right: 20%;
+	margin-top: 0.5%;
+
+	padding: 5px;
+	padding: 10px 20px;
+	padding: 30px 50px 3% 15%;
+
+} 
+p{
+	border: 1px solid red;
+	background: white;
+}
